@@ -1,0 +1,1 @@
+React app that is a Memory Card Game where you have to only press cards you haven't pressed before. This is a React Project from "The Odin Project".
